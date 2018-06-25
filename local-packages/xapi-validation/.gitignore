@@ -1,7 +1,0 @@
-.DS_STORE
-/.nyc_output
-/coverage
-/dist
-/node_modules
-/npm-debug.log
-/typings
